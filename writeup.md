@@ -150,7 +150,7 @@ For the first image, the model is really confident the sign is a Priority road s
 |:---------------------:|:---------------------------------------------:| 
 | Priority road | 0.999 |
 | No vehicles | 0.00036723|
-| Stop : 0.000243 |
+| Stop | 0.000243 |
 
 For the second image, the model is almost certain about Roundabout mandatory but again, the sign was actually Pedestrians.
 The probability is listed below.
@@ -188,7 +188,7 @@ For the sixth image, the model was correct is really certain that it was a yield
 
 | Prediction         	|     Probability       					| 
 |:---------------------:|:---------------------------------------------:| 
-| Yield : 0.997839808464 |
+| Yield | 0.997839808464 |
 | Speed limit (50km/h) | 0.00094722333597 |
 | Speed limit (80km/h) | 0.000466124969535 |
 
